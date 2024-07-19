@@ -26,9 +26,5 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch.
 
-![Visitor Count] (https://visitor-badge.glitch.me/badge?page_id=casto-malimali.casto-malimali)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-https://visitor-badge.glitch.me/badge?page_id=casto-malimali.casto-malimali
 
