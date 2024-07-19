@@ -28,3 +28,5 @@ Thanks for visiting my profile! Feel free to check out my repositories and get i
 
 ![Visitor Count] (https://visitor-badge.glitch.me/badge?page_id=casto-malimali.casto-malimali)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
