@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 
 📫 How to Reach Me
 - Email: castomalimali@gmail.com, castomalimali@outlook.com
+- Phone: +255 684 694 982
+- Whatsapp: +255 656 569 804
 - LinkedIn: https://www.linkedin.com/in/castomalimali/
 
  
