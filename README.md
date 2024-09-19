@@ -8,11 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 - Occupation:  Freelancer
 - Interests: Web Development, Android Development (Flutter)
 
-🛠️ Skills
-- Programming Languages:  JavaScript, Python, Java, Dart,  PHP
-- Frameworks and Libraries:  Laravel, Nodejs, Flutter 
-- Tools: VSCode, Android Studio, Git
-  
+
 
 
 
@@ -26,10 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves working on in
 
 
 
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch.
-
-# 💫 About Me:
-🌱 I’m currently learning Dart & Flutter<br>💬 Ask me about Anything in Freelancing<br>⚡ Fun fact<br>Hi, I'm Casto Malimali! I am a freelance software developer with a passion for building impactful solutions through code. With a background in both frontend and backend development, I enjoy creating efficient, user-friendly applications that solve real-world problems
 
 
 ## 🌐 Socials:
